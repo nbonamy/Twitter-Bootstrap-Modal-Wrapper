@@ -1,0 +1,17 @@
+
+html, body, button, input, select, textarea {
+  font-family: "Segoe UI", "Helvertica";
+  font-size: 14px;
+  color: #222;
+}
+
+body {
+  width: 1000px;
+  margin: 16px auto;
+}
+
+header {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 32px;
+  height: 64px;
+}
