@@ -137,7 +137,6 @@ $.alertGlobals = {
   	footer.append(confirm);
 
   	// body depends
-  	debugger;
   	var body = $('<div class="modal-body"></div>');
   	if (typeof(msg) == 'string') {
   		body.append('<p>'+msg+'</p>');
