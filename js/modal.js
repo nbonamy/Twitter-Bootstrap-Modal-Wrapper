@@ -35,7 +35,7 @@ $.alertGlobals = {
   		title: $.alertGlobals.title,
   		fade: $.alertGlobals.fade,
   		confirm: $.alertGlobals.confirm,
-  		dismiss: $.alertGlobals.cancel,
+  		dismiss: $.alertGlobals.dismiss,
   		confirmClass: $.alertGlobals.confirmClass,
   		cancelClass: $.alertGlobals.cancelClass,
   		noDismiss: false,
